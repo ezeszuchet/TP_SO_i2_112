@@ -1,0 +1,7 @@
+Ricardo Ledesma
+IP: 192.168.0.225
+Hora: 10.30
+
+Ezequiel Szuchet
+IP: 192.168.0.50
+Hora: 10.44
