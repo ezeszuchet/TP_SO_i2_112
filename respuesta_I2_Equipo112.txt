@@ -15,3 +15,21 @@ C.Si.
 
 D.No.
 
+
+E. 
+Ezequiel Szuchet
+Ricardo Ledesma
+Sergio Dominguez
+
+Crear y subir archivos:
+git clone <repositorio>
+git add .
+git commit -m <mensaje>
+git push
+
+Actualizar fork:
+git remote add upstream https://github.com/serdominguez/TP_SO_i2_112.git, traje la direccion del repositorio para Actualizar
+git pull upstream HEAD, traigo del repositorio la rama HEAD
+git add .
+git commit -m <mensaje>
+git push, actualizo mi repositorio
