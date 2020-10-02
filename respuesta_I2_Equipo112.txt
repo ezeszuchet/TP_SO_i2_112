@@ -1,0 +1,12 @@
+Alumnos:
+Dominguez Sergio
+Szuchet Ezequiel
+Ledesma Ricardo
+
+Respuestas:
+a:
+.git remote add upstram (repositorio)
+.git pull origin HEAD
+.git push
+
+b:Si
